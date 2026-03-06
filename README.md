@@ -16,22 +16,34 @@
 
 ## 🚀 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>👨‍💻 Name: <b>Omar Aboelsoud</b></li>
-        <li>🎮 Alias: <b>Jerry</b></li>
-        <li>🌍 Based in: <b>Egypt 🇪🇬</b></li>
-        <li>🚀 Passionate about: <b>Community Tools & Immersive Web</b></li>
-        <li>📚 Currently: <b>Mastering Backend & 3D Web Apps</b></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="50" />
+</div>
+
+<div align="center">
+
+| 👤 Profile | 🎯 Expertise | 🌍 Identity |
+| :--- | :--- | :--- |
+| <b>Name:</b> Omar Aboelsoud | <b>Focus:</b> Community & Web | <b>Location:</b> Egypt 🇪🇬 |
+| <b>Alias:</b> Jerry | <b>Current:</b> Backend & 3D | <b>Goal:</b> Immersive Apps |
+
+</div>
+
+<br>
+
+<div align="center">
+  <blockquote>
+    <i>"Passionate Developer dedicated to building tools that help communities grow and creating immersive web experiences."</i>
+  </blockquote>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Creative-Design-blueviolet?style=flat-square">
+  <img src="https://img.shields.io/badge/Problem-Solver-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Open-Source-orange?style=flat-square">
+</p>
+
+---
 
 ---
 
