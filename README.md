@@ -24,24 +24,23 @@
 
 <h2>🌐 Connect With Me</h2>
 
-<p>
+<p align="left">
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.icons8.com/ios-filled/40/github.png"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://youtube.com">
-<img src="https://img.icons8.com/ios-filled/40/youtube-play.png"/>
+<a href="https://youtube.com/YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-<a href="https://discord.com">
-<img src="https://img.icons8.com/ios-filled/40/discord-logo.png"/>
+<a href="https://discord.gg/YOUR_SERVER">
+<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href="https://instagram.com">
-<img src="https://img.icons8.com/ios-filled/40/instagram-new.png"/>
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </p>
-
 ---
 
 <h2>🛠 Languages & Tools</h2>
