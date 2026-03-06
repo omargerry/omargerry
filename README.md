@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Omar%20Aboelsoud&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Omar%20Aboalsoud&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <h1 align="center">👋 Hi, I'm Omar Aboelsoud (Jerry)</h1>
