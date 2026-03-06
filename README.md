@@ -22,22 +22,32 @@
 
 ---
 
-<p align="left">
+<p>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/github/white" width="40"/>
+<a href="https://github.com/YOUR_USERNAME" style="text-decoration:none;">
+<img src="https://cdn.simpleicons.org/github/white" width="30" align="center"/>
+<span> GitHub</span>
 </a>
 
-<a href="https://youtube.com/YOUR_CHANNEL">
-<img src="https://cdn.simpleicons.org/youtube/white" width="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://youtube.com/YOUR_CHANNEL" style="text-decoration:none;">
+<img src="https://cdn.simpleicons.org/youtube/white" width="30" align="center"/>
+<span> YouTube</span>
 </a>
 
-<a href="https://discord.gg/YOUR_SERVER">
-<img src="https://cdn.simpleicons.org/discord/white" width="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://discord.gg/YOUR_SERVER" style="text-decoration:none;">
+<img src="https://cdn.simpleicons.org/discord/white" width="30" align="center"/>
+<span> Discord</span>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/instagram/white" width="40"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/YOUR_USERNAME" style="text-decoration:none;">
+<img src="https://cdn.simpleicons.org/instagram/white" width="30" align="center"/>
+<span> Instagram</span>
 </a>
 
 </p>
