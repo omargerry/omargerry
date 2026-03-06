@@ -1,35 +1,31 @@
-<h1 align="center">Hi there, I'm Omar Aboelsoud - aka Jerry 👋</h1>
+<h1 align="center">👋 Hi, I'm Omar Aboelsoud (Jerry)</h1>
+<h3 align="center">💻 Programmer | 🎮 Game Content Creator | 🤖 Discord Bot Developer</h3>
 
 <p align="center">
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?logo=youtube&logoColor=red&style=for-the-badge">
-  </a>
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?color=1DA1F2&logo=twitter&style=for-the-badge">
-  </a>
+  <img src="https://img.shields.io/badge/Developer-JavaScript-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Focus-Discord%20Bots-blue?style=for-the-badge&logo=discord">
+  <img src="https://img.shields.io/badge/Content-Gaming-red?style=for-the-badge&logo=youtube">
 </p>
 
-<hr>
+---
 
-<h2>👨‍💻 I'm a Programmer, Game Content Creator, and Developer!</h2>
+<h2>🚀 About Me</h2>
 
 <ul>
-<li>🔭 Currently working on <b>Discord Bots & Game Projects</b></li>
-<li>🌱 Learning more about <b>JavaScript & Backend Development</b></li>
-<li>👯 Looking to collaborate with <b>developers and gaming creators</b></li>
-<li>🥅 2025 Goals: <b>Build bigger projects and grow my community</b></li>
-<li>⚡ Fun fact: I love <b>gaming, programming, and building cool tools</b></li>
+<li>👨‍💻 My name is <b>Omar Aboelsoud</b></li>
+<li>🎮 Known as <b>Jerry</b></li>
+<li>💻 I build <b>Discord Bots & Web Projects</b></li>
+<li>🎥 I'm a <b>Gaming Content Creator</b></li>
+<li>🚀 I love building tools that help communities</li>
+<li>📚 Currently learning more about <b>Backend Development</b></li>
 </ul>
 
-<hr>
+---
 
-<h2>🌐 Connect with me</h2>
+<h2>🌐 Connect With Me</h2>
 
 <p>
-<a href="https://github.com">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.icons8.com/ios-filled/40/github.png"/>
 </a>
 
@@ -37,8 +33,8 @@
 <img src="https://img.icons8.com/ios-filled/40/youtube-play.png"/>
 </a>
 
-<a href="https://twitter.com">
-<img src="https://img.icons8.com/ios-filled/40/twitter.png"/>
+<a href="https://discord.com">
+<img src="https://img.icons8.com/ios-filled/40/discord-logo.png"/>
 </a>
 
 <a href="https://instagram.com">
@@ -46,40 +42,47 @@
 </a>
 </p>
 
-<hr>
+---
 
-<h2>🛠 Languages and Tools</h2>
+<h2>🛠 Languages & Tools</h2>
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,mongodb,vscode" />
 </p>
 
-<hr>
+---
 
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
-<hr>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
-<h2>🎮 Current Projects</h2>
+---
+
+<h2>🎮 Projects I'm Working On</h2>
 
 <ul>
-<li>🤖 Discord Bots</li>
-<li>🎮 Gaming Tools</li>
+<li>🤖 Advanced Discord Bots</li>
+<li>💰 Discord Economy Systems</li>
+<li>🎮 Gaming Community Tools</li>
 <li>🌐 Web Development Projects</li>
 </ul>
 
-<hr>
+---
 
-<h2>⚡ Fun Fact</h2>
+<h2>🔥 My Goal</h2>
 
-<p>I enjoy programming, gaming, and creating useful projects for the community.</p>
+<p>
+Build powerful tools, grow my gaming community, and create useful open-source projects.
+</p>
+
+---
+
+<p align="center">
+⭐ Don't forget to follow my GitHub for more projects!
+</p>
