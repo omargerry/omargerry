@@ -56,14 +56,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,threejs,figma" />
   </p>
 
-  <br>
-
   ### ⚙️ Backend & Database
   <p>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
   </p>
-
-  <br>
 
   ### 🛠 Tools & Platforms
   <p>
