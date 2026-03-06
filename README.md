@@ -22,26 +22,25 @@
 
 ---
 
-<h2>🌐 Connect With Me</h2>
+<p align="left">
 
-<p>
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.icons8.com/ios-filled/40/github.png"/>
+<img src="https://cdn.simpleicons.org/github/white" width="40"/>
 </a>
 
-<a href="https://youtube.com">
-<img src="https://img.icons8.com/ios-filled/40/youtube-play.png"/>
+<a href="https://youtube.com/YOUR_CHANNEL">
+<img src="https://cdn.simpleicons.org/youtube/white" width="40"/>
 </a>
 
-<a href="https://discord.com">
-<img src="https://img.icons8.com/ios-filled/40/discord-logo.png"/>
+<a href="https://discord.gg/YOUR_SERVER">
+<img src="https://cdn.simpleicons.org/discord/white" width="40"/>
 </a>
 
-<a href="https://instagram.com">
-<img src="https://img.icons8.com/ios-filled/40/instagram-new.png"/>
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://cdn.simpleicons.org/instagram/white" width="40"/>
 </a>
+
 </p>
-
 ---
 
 <h2>🛠 Languages & Tools</h2>
