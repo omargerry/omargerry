@@ -49,20 +49,28 @@
 
 ## 🛠 Tech Stack & Tools
 
-### 🌐 Frontend & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,threejs,figma" />
-</p>
+<div align="center">
 
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
-</p>
+  ### 🌐 Frontend & Design
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,threejs,figma" />
+  </p>
 
-### 🛠 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,py,bot" />
-</p>
+  <br>
+
+  ### ⚙️ Backend & Database
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
+  </p>
+
+  <br>
+
+  ### 🛠 Tools & Platforms
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,py,bot" />
+  </p>
+
+</div>
 
 ---
 
