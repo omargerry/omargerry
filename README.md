@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Omar%20Aboalsoud&fontSize=80&animation=fadeIn&fontAlignY=35" />
 </div>
 
-<h1 align="center">👋 Hi, I'm Omar Aboelsoud (Jerry)</h1>
+<h1 align="center">👋 Hi, I'm Omar Aboalsoud (Jerry)</h1>
 <h3 align="center">💻 Full-Stack Web Developer | 🎮 Game Content Creator | 🤖 Discord Bot Expert</h3>
 
 <p align="center">
